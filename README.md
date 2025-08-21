@@ -1,8 +1,8 @@
 # PROMPT-ENGINEERING- 1.	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
-```
-Name:Dhivya Dharshini B
-Reg No: 212223240031
-```
+
+# Name:Dhivya Dharshini B
+# Reg No: 212223240031
+
 Experiment:
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
@@ -19,7 +19,8 @@ Generative AI refers to algorithms that can generate new content, including text
 
 ### 1.1. Definition  
 Generative AI systems are designed to understand and mimic patterns in existing data to produce new, synthetic examples that resemble the training data.   
-![image](https://github.com/user-attachments/assets/e87ecb25-46b5-430d-9e6e-496342290e49)
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/a53aa39d-3353-48e6-9760-ece864ebe053" />
+
 
 ### 1.2. Types of Generative Models  
 - **Generative Adversarial Networks (GANs)**: Consist of two neural networks, a generator and a discriminator, that are trained simultaneously. The generator creates new data, while the discriminator evaluates its authenticity.  
@@ -37,7 +38,8 @@ Generative models learn by analyzing large datasets, adjusting their parameters 
 
 ### 2.1. Overview of Transformers  
 Transformers are a specific architecture designed to handle sequential data, eliminating the limitations of previous recurrent neural networks (RNNs). They enable parallel processing of data, significantly improving training efficiency.  
-![image](https://github.com/user-attachments/assets/d684b164-cea5-4f3e-8ecb-e39af87d3248)
+<img width="700" height="591" alt="image" src="https://github.com/user-attachments/assets/15ac529d-98a5-4597-95bd-2a1c4da04cea" />
+
 
 ### 2.2. Components of Transformers  
 - **Encoder-Decoder Structure**: The encoder processes input data, while the decoder generates output data based on the encoder’s output.  
@@ -76,7 +78,8 @@ Large Language Models (LLMs) are a type of artificial intelligence that can unde
 - **Components**:  
   - **Encoder**: Processes input data and encodes it into a rich representation.  
   - **Decoder**: Generates output from the encoded representation, used for tasks like text generation and translation.  
-![image](https://github.com/user-attachments/assets/e278b3c4-f439-44d6-a649-1c45ab64575f)
+<img width="1400" height="532" alt="image" src="https://github.com/user-attachments/assets/eaeb6d7e-8d65-4812-a715-83bcd8b8adbe" />
+
 ### Key Features  
 - **Attention Mechanism**: Enables the model to focus on relevant parts of the input sequence, allowing for better context understanding.  
 - **Multi-Head Attention**: Allows the model to attend to different parts of the input simultaneously, improving its ability to capture relationships in the data.  
@@ -114,7 +117,8 @@ Large Language Models (LLMs) are a type of artificial intelligence that can unde
 - **Continual Learning**: Efforts are underway to enable models to learn continually from new data without forgetting previously acquired knowledge.  
 - **Interdisciplinary Applications**: Increasing collaboration between AI and fields like medicine, law, and education to create specialized models addressing domain-specific needs.  
 # Growth over the years
-![image](https://github.com/user-attachments/assets/aee8f36d-9e19-4253-bd24-a9e9ada000e9)
+<img width="2008" height="1801" alt="image" src="https://github.com/user-attachments/assets/e3f56af9-3529-466c-9a56-9584252cc862" />
+
 
 ## Conclusion  
 

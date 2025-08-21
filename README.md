@@ -65,7 +65,10 @@ Generative AI has a wide range of applications across various fields:
 - AI-powered tools can compose original music tracks or provide accompaniment for musicians.  
 
 ### 3.4. Drug Discovery and Material Science  
-- Generative models can suggest compounds with specific properties, accelerating research and development processes.  
+- Generative models can suggest compounds with specific properties, accelerating research and development processes.
+
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/e18608c6-90fc-4089-8cb2-1015209bceef" />
+
 
 ## 4. Impact of Scaling in Large Language Models (LLMs)  
 
@@ -99,7 +102,10 @@ Large Language Models (LLMs) are a type of artificial intelligence that can unde
 - **Conversational Agents**: Powers chatbots and virtual assistants capable of engaging in human-like dialogue.  
 - **Machine Translation**: Improves the accuracy and fluency of translated text between languages.  
 - **Text Summarization**: Generates concise summaries from larger texts, useful for news articles and research papers.  
-- **Sentiment Analysis**: Analyzes and determines the sentiment behind customer reviews and social media posts.  
+- **Sentiment Analysis**: Analyzes and determines the sentiment behind customer reviews and social media posts.
+
+  
+<img width="271" height="186" alt="image" src="https://github.com/user-attachments/assets/a2b9653f-cb5b-429b-b9af-86f42b8dab36" />
 
 ## 5. Challenges  
 
